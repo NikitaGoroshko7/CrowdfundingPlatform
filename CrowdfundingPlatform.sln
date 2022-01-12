@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrowdfundingPlatform", "CrowdfundingPlatform\CrowdfundingPlatform.csproj", "{5599CC3B-D130-44E0-8E8C-01F17A37C44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5599CC3B-D130-44E0-8E8C-01F17A37C44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5599CC3B-D130-44E0-8E8C-01F17A37C44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5599CC3B-D130-44E0-8E8C-01F17A37C44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5599CC3B-D130-44E0-8E8C-01F17A37C44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BC107E-E48D-430C-8B96-04E24A8A6DFB}
+	EndGlobalSection
+EndGlobal
